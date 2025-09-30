@@ -11,7 +11,7 @@ a{
 }
 
 header{
-    min-width: 1500px;
+    max-width: 1500px;
     margin: 0 auto;
     padding: 60px 100px 40px;
     display: flex;
@@ -268,7 +268,7 @@ color: black;
     margin-bottom: 15px;
     font-family: "Lora", serif;
     font-weight: 700;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .footer-social-media{
